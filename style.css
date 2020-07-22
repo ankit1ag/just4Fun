@@ -31,10 +31,6 @@ body,html{
     transition:all 0.5s ease-out;
     transition-delay: 150ms;
 }
-.left-box{
-    background: rgb(214, 219, 219);
-    transform: translateX(-250%);
-}
 .right-box{
     transform: translateX(250%);
     
@@ -59,9 +55,6 @@ body,html{
 .info .description{
     color: rgb(117, 117, 117);
     
-}
-.scale .left-box {
-    transform: translateX(0%);
 }
 
 .scale .right-box {
